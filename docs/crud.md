@@ -3,11 +3,11 @@ By default all CRUD methods are supported by this connector. Otherwise, currentl
 parameters were covered in [Loopback Neptune Connector Test Kit](), so you are welcome to help us improve it.
 
 ### Keep reading
-- 1 - [Datasource](docs/datasource.md)
-- 2 - [Models](docs/models.md)
-- 3 - [Repositories](docs/repositories.md)
+- 1 - [Datasource](datasource.md)
+- 2 - [Models](models.md)
+- 3 - [Repositories](repositories.md)
 - 4 - CRUD methods
-- 5 - [Direct Query Execution (Gremlin Bytecode)](docs/bytecode.md)
-- 6 - [Transaction](docs/transaction.md)
+- 5 - [Direct Query Execution (Gremlin Bytecode)](bytecode.md)
+- 6 - [Transaction](transaction.md)
 
 [Back](/)

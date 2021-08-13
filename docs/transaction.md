@@ -44,11 +44,11 @@ async createRelatedPost(post: PostRequestType) {
 ```
 
 ### Keep reading
-- 1 - [Datasource](docs/datasource.md)
-- 2 - [Models](docs/models.md)
-- 3 - [Repositories](docs/repositories.md)
-- 4 - [CRUD methods](docs/crud.md)
-- 5 - [Direct Query Execution (Gremlin Bytecode)](docs/bytecode.md)
+- 1 - [Datasource](datasource.md)
+- 2 - [Models](models.md)
+- 3 - [Repositories](repositories.md)
+- 4 - [CRUD methods](crud.md)
+- 5 - [Direct Query Execution (Gremlin Bytecode)](bytecode.md)
 - 6 - Transaction
 
 [Back](/)

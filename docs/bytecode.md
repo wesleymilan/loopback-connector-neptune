@@ -96,11 +96,11 @@ this library to connect to any other Gremlin Compatible GraphDB. For more inform
 [AWS Neptune Docs](https://docs.aws.amazon.com/neptune/latest/userguide/intro.html).
 
 ### Keep reading
-- 1 - [Datasource](docs/datasource.md)
-- 2 - [Models](docs/models.md)
-- 3 - [Repositories](docs/repositories.md)
-- 4 - [CRUD methods](docs/crud.md)
+- 1 - [Datasource](datasource.md)
+- 2 - [Models](models.md)
+- 3 - [Repositories](repositories.md)
+- 4 - [CRUD methods](crud.md)
 - 5 - Direct Query Execution (Gremlin Bytecode)
-- 6 - [Transaction](docs/transaction.md)
+- 6 - [Transaction](transaction.md)
 
 [Back](/)

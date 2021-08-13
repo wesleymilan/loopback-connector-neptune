@@ -57,10 +57,10 @@ export class NeptuneDataSource extends juggler.DataSource
 
 ### Keep reading
 - 1 - Datasource
-- 2 - [Models](docs/models.md)
-- 3 - [Repositories](docs/repositories.md)
-- 4 - [CRUD methods](docs/crud.md)
-- 5 - [Direct Query Execution (Gremlin Bytecode)](docs/bytecode.md)
-- 6 - [Transaction](docs/transaction.md)
+- 2 - [Models](models.md)
+- 3 - [Repositories](repositories.md)
+- 4 - [CRUD methods](crud.md)
+- 5 - [Direct Query Execution (Gremlin Bytecode)](bytecode.md)
+- 6 - [Transaction](transaction.md)
 
 [Back](/)

@@ -76,7 +76,7 @@ database column name is immutable. See the examples below:
 You can set relations between models, but, we strongly recommend NOT to use relations on Loopback queries. ORM join
 operations sends one request for each model included in the main requested model. It doesn't make sense when using
 any database, but, when using a GraphDB it's like buying a Ferrari to tow your boat to go fishing. Use
-[Direct Query Execution (Gremlin Bytecode)](docs/bytecode.md) instead, when querying relations from Neptune.
+[Direct Query Execution (Gremlin Bytecode)](bytecode.md) instead, when querying relations from Neptune.
 
 ## Loopback Types
 There are some NOT supported Loopback data type in this connector, see the full list below:
@@ -93,11 +93,11 @@ There are some NOT supported Loopback data type in this connector, see the full 
 - String: Will be forcibly converted to string
 
 ### Keep reading
-- 1 - [Datasource](docs/datasource.md)
+- 1 - [Datasource](datasource.md)
 - 2 - Models
-- 3 - [Repositories](docs/repositories.md)
-- 4 - [CRUD methods](docs/crud.md)
-- 5 - [Direct Query Execution (Gremlin Bytecode)](docs/bytecode.md)
-- 6 - [Transaction](docs/transaction.md)
+- 3 - [Repositories](repositories.md)
+- 4 - [CRUD methods](crud.md)
+- 5 - [Direct Query Execution (Gremlin Bytecode)](bytecode.md)
+- 6 - [Transaction](transaction.md)
 
 [Back](/)
