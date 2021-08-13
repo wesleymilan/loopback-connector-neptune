@@ -63,4 +63,4 @@ export class NeptuneDataSource extends juggler.DataSource
 - 5 - [Direct Query Execution (Gremlin Bytecode)](bytecode.md)
 - 6 - [Transaction](transaction.md)
 
-[Back](/)
+[Back](https://github.com/wesleymilan/loopback-connector-neptune)

@@ -51,4 +51,4 @@ async createRelatedPost(post: PostRequestType) {
 - 5 - [Direct Query Execution (Gremlin Bytecode)](bytecode.md)
 - 6 - Transaction
 
-[Back](/)
+[Back](https://github.com/wesleymilan/loopback-connector-neptune)

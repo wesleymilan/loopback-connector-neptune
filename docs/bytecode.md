@@ -103,4 +103,4 @@ this library to connect to any other Gremlin Compatible GraphDB. For more inform
 - 5 - Direct Query Execution (Gremlin Bytecode)
 - 6 - [Transaction](transaction.md)
 
-[Back](/)
+[Back](https://github.com/wesleymilan/loopback-connector-neptune)

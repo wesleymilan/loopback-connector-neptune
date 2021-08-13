@@ -10,4 +10,4 @@ parameters were covered in [Loopback Neptune Connector Test Kit](), so you are w
 - 5 - [Direct Query Execution (Gremlin Bytecode)](bytecode.md)
 - 6 - [Transaction](transaction.md)
 
-[Back](/)
+[Back](https://github.com/wesleymilan/loopback-connector-neptune)
