@@ -12,4 +12,4 @@ To use Gremlin Traversal Steps in bytecode mode look at [Direct Query Execution 
 - 5 - [Direct Query Execution (Gremlin Bytecode)](bytecode.md)
 - 6 - [Transaction](transaction.md)
 
-[Back](/)
+[Back](../)
