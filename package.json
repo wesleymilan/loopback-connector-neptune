@@ -1,0 +1,29 @@
+{
+  "name": "loopback-connector-neptune",
+  "version": "0.0.1",
+  "description": "Loopback 4 connector for AWS Neptune using Gremlin Graph Query Language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Wesley Milan"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.2",
+    "gremlin": "^3.4.12",
+    "gremlin-aws-sigv4": "^3.4.8",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesleymilan/loopback-connector-neptune"
+  },
+  "bugs": {
+    "url": "https://github.com/wesleymilan/loopback-connector-neptune/issues"
+  },
+  "homepage": "",
+  "_id": "loopback-connector-neptune@0.0.1",
+  "directories": {}
+}
