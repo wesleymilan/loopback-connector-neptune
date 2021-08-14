@@ -1,4 +1,4 @@
-# Loopback 4 Connector for AWS Neptune
+# Loopback 4 Connector for AWS Neptune (BETA)
 
 Loopback 4 connector for AWS Neptune using Gremlin Graph Query Language.
 
