@@ -47,10 +47,12 @@ DEBUG=loopback:connector:neptune npm start
 ```
 
 ## Tests
-You can find all tests and code examples at [Loopback Neptune Connector Test Kit Repository]() which has a Docker
-environment to run functional tests using [Apache TinkerPop](http://tinkerpop.apache.org/). Note that Apache TinkerPop
-doesn't have the exactly same behavior of AWS Neptune, there are some limitations you must validate running the tests
-against a real Neptune instance. Please follow the instructions on Test Kit Repository of how to do that.
+You can find all tests and code examples at 
+[Loopback Neptune Connector Test Kit Repository](https://github.com/wesleymilan/loopback-connector-neptune-test-kit) 
+which has a Docker environment to run functional tests using [Apache TinkerPop](http://tinkerpop.apache.org/). Note 
+that Apache TinkerPop doesn't have the exactly same behavior of AWS Neptune, there are some limitations you must 
+validate running the tests against a real Neptune instance. Please follow the instructions on Test Kit Repository of 
+how to do that.
 
 ## License
 This connector is under MIT license which means, you can modify and distribute since your code is OpenSource and free
