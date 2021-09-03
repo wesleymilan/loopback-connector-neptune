@@ -12,7 +12,7 @@ especially if you choose to use IAM authentication, here are the options:
 - **iam**: Boolean, enabling `true` or disabling `false` IAM authentication. We use 
   [Signature Version 4 Signing](https://docs.aws.amazon.com/neptune/latest/userguide/get-started-connect-iam.html) 
   library to authenticate.
-- **database**: Database name as string.
+- **secure**: Secure connection flag. Used to connect on other Gremlin servers. This param is ignored when using URL.
 - **transactionClearTimeout**: As transaction operations on Neptune uses 
   [Multithreaded Gremlin Writes](https://docs.aws.amazon.com/neptune/latest/userguide/best-practices-gremlin-multithreaded-writes.html)
   all steps must be stores locally before sending all of them at once to the server. Doing this we can have memory 
@@ -36,7 +36,7 @@ const config = {
   host: 'neptune-99999.us-east-1.elb.amazonaws.com',
   port: 8182,
   iam: true,
-  database: 'myDatabase',
+  secure: true,
   transactionClearTimeout: 5000
 };
 
